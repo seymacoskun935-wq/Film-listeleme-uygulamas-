@@ -5,7 +5,7 @@ C# Console Application kullanılarak geliştirdiğim basit bir film takip sistem
 ## 🚀 Özellikler
 - Film ekleme
 - Film listeleme
-- İzlenen filmleri işaretleme
+- İzlenen filmleri isaretleme
 - Film silme
 - Filmlere puan verme
  
